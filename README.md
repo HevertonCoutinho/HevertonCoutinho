@@ -22,6 +22,4 @@
 <h2 dir="auto">Contact</h2>
 <p dir="auto"><a href="https://codepen.io/Hevertoncout" rel="nofollow"><img src="https://img.shields.io/badge/-Hevertoncout-05122A?style=flat&amp;logo=codepen" />&nbsp;</a><a href="https://twitter.com/Hevertoncout" rel="nofollow"><img src="https://img.shields.io/badge/-Hevertoncout-05122A?style=flat&amp;logo=twitter" />&nbsp;</a><a href="https://www.linkedin.com/in/heverton-escudeiro-640558b3/" rel="nofollow"><img src="https://img.shields.io/badge/-Hevertoncout-05122A?style=flat&amp;logo=linkedin" />&nbsp;</a><a href="https://www.instagram.com/Hevertoncout/" rel="nofollow"><img src="https://img.shields.io/badge/-Hevertoncout-05122A?style=flat&amp;logo=instagram" />&nbsp;</a><a href="https://www.youtube.com/@hevertonescudeiro1261" rel="nofollow"><img src="https://img.shields.io/badge/-@hevertonescudeiro1261-05122A?style=flat&amp;logo=youtube" /></a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HevertonCoutinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HevertonCoutinho&show_icons=true&theme=radical)
-![Snake animation](https://github.com/HevertonCoutinho/HevertonCoutinho/blob/output/github-contribution-grid-snake.svg)
+
