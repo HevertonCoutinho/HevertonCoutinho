@@ -12,7 +12,7 @@
 <p dir="auto">▶️&nbsp;I (not) regularly post videos on&nbsp;<a href="https://youtube.com" rel="nofollow">youtube.com</a></p>
 </li>
 <li>
-<p dir="auto">💬&nbsp;Ask me about&nbsp;<strong>Python, Automation, Web Scraping, HTML, CSS, JavaScript, Node.JS</strong></p>
+<p dir="auto">💬&nbsp;Ask me about&nbsp;<strong>Python, Django, Automation, Web Scraping, HTML, CSS</strong></p>
 </li>
 <li>
 <p dir="auto">⚡&nbsp;Curious fact&nbsp;<strong>TDAH</strong></p>
