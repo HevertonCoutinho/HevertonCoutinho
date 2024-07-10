@@ -15,7 +15,7 @@
 <p dir="auto">💬&nbsp;Ask me about&nbsp;<strong>Python, Django, Automation, Web Scraping and Machine Learning</strong></p>
 </li>
 <li>
-<p dir="auto">⚡&nbsp;Curious fact&nbsp;<strong>TDAH</strong></p>
+<p dir="auto">⚡&nbsp;Curious fact&nbsp;<strong>I like chess</strong></p>
 </li>
 </ul>
 
