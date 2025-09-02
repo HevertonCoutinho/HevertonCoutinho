@@ -6,7 +6,7 @@
 <p dir="auto">🔥Despite not working as a programmer, I am curious, I like to implement my ideas</p>
 </li>
 <li>
-<p dir="auto">🔭I'm currently working at&nbsp;<a href="https://liveseo.com.br/">Optimiza</a></p>
+<p dir="auto">🔭I'm currently working at&nbsp;<a href="https://optimizamarketing.com/">Optimiza</a></p>
 </li>
 <li>
 <p dir="auto">▶️&nbsp;I (not) regularly post videos on&nbsp;<a href="https://youtube.com" rel="nofollow">youtube.com</a></p>
